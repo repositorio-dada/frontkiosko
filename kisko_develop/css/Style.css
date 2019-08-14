@@ -1,0 +1,11 @@
+#mainNav{
+background-color: #d9272e;
+font-family: 'Nunito', sans-serif black;
+}
+
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+  align-content: center;
+  
+}
