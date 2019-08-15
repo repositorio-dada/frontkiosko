@@ -1,11 +1,19 @@
 #mainNav{
 background-color: #d9272e;
-font-family: 'Nunito', sans-serif black;
+font-family: 'Nunito', sans-serif;
+font-weight: 900;
 }
 
 .img-fluid{
     max-width: 100%;
     height: auto;
-  align-content: center;
+      
   
+}
+#footer1{
+    background-color: #d9272e;
+    font-family: 'Nunito', sans-serif black;
+    
+   
+
 }
