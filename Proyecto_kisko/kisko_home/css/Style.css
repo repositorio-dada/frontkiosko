@@ -1,0 +1,281 @@
+#mainNav{
+background-color: #d9272e;
+font-family: 'Nunito', sans-serif;
+font-weight: 900;
+}
+ html {
+    
+    overflow-y: scroll; overflow-x:hidden;
+}
+#flechas{
+    margin-bottom: 29px;
+    position: relative;
+    left: 200px;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+      
+  
+}
+#footer1{
+    background-color: #d9272e;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+}
+
+#loke21{
+    background-color: #d9272e;
+    font-family: 'Nunito', sans-serif black;
+}
+
+#rev_slider_5_1_wrapper{
+    z-index: 1;
+    position: float;
+    border-spacing: 0;
+border-collapse: collapse;
+}
+
+.bandera{
+    
+    z-index: 2;
+}
+
+#mecanicas{
+position: relative;
+margin-top: 0ch;
+z-index: 200;
+margin-bottom: -80px;
+top: -120px;
+}
+
+
+#dia2{
+    position: relative;
+    right: -300px;
+}
+#dia3{
+    position: relative;
+   top: 90px;
+   left: 20px;
+   
+}
+
+#dia8{
+    position: relative;
+    right: 600px;
+    bottom: 100px;
+   
+}
+
+#gifcard{
+    position: relative;
+    top: -100px;
+}
+
+#premios{
+    position: relative;
+    margin-top: 0ch;
+    z-index: 200;
+    margin-bottom: -80px;
+    top: -120px;
+    width: 200%;
+    }
+
+    #premios2{
+        position: relative;
+        margin-top: 0ch;
+        z-index: 200;
+        margin-bottom: -150px;
+        top: -120px;
+        }
+
+
+#macanicas3{
+    position: relative;
+    top: -51px;
+}
+
+.img-fluid{
+ margin-block-end: 0%; 
+}
+
+.tp-bgimg.defaultimg {
+
+}
+#tiker{
+    padding-left: 3%;
+    position: relative;
+    top: -50px;
+}
+#howyr{
+
+    padding-left: 10%;
+
+}
+
+#botonpar{
+
+    padding-left: auto  ;
+  
+}
+
+#jasjasj{
+    position: relative;
+    right: -50px;
+
+}
+
+#final1{
+    position: relative;
+    right: -161px;
+}
+
+#button1{
+ 
+    position: relative;
+    padding-left: 16%;
+    font-family: 'Nunito', sans-serif;}
+
+#button2{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    border: green;
+    position: relative;
+    
+    }
+
+    #carta{
+    
+        padding-left: 14px;
+    }
+
+    #carta2{
+        padding-left: 8%;
+    }
+
+    #carta3{
+        padding-left: 8%;
+        padding-bottom: 10%;
+    }
+
+    #bottonfinal{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    border: green;
+    background-color: #d9272e;
+    }
+
+    #espaciado{
+
+        position: relative;
+        top: 900;
+        color: white;
+    }
+
+#tarjeton{
+    position: relative;
+    right: 37px;
+    top: -30px;
+}
+
+#parte{
+position: relative;
+padding-left: 15%;
+}
+
+#estaras{
+    max-width: 90%;
+
+}
+
+#first{
+    position: relative;
+    top: -81px;
+}
+#second{
+    position: relative;
+    top: -31px;
+}
+
+#montero{
+    position: relative;
+    align-items: center;
+    left: 50px;
+}
+#tarjeton3{
+    position: relative;
+    left: 29px;
+}
+
+#flechas1{
+    position: relative;
+    right: -21px;
+}
+
+#paso4{
+    width: 95%;
+}
+
+#final2{
+    
+    position: relative;
+    right: -400px;
+}
+
+
+#contacto5{
+    z-index: -1;
+    position: relative;
+
+}
+
+html {
+    min-height: 100%;
+    position: relative;
+  }
+  body {
+    margin: 0;
+    margin-bottom: 40px;
+  }
+  footer {
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+  }
+  #italia{
+    padding-top: 60px;
+    position: relative;
+    left: 200px;
+  }
+
+  #informacionmobile{
+    position: relative;
+    top: -32px;
+  }
+
+  #informacióndestopk{
+      position: relative;
+    margin-bottom: -164px;
+  }
+
+  #sellomobile{
+      width: 30%;
+      position: relative;
+    top: -38px;
+
+  }
+
+  #imgitalia{
+position: relative;
+top: -42px;
+
+  }
+
+  #accordion{
+    position: relative;
+    top: -49px;
+  }

@@ -1,0 +1,168 @@
+#mainNav{
+background-color: #d9272e;
+font-family: 'Nunito', sans-serif;
+font-weight: 900;
+}
+ html {
+    
+    overflow-y: scroll; overflow-x:hidden;
+
+
+}
+#flechas{
+    margin-bottom: 29px;
+    position: relative;
+    left: 200px;
+}
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+      
+  
+}
+#footer1{
+    background-color: #d9272e;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+}
+
+#loke21{
+    background-color: #d9272e;
+    font-family: 'Nunito', sans-serif black;
+}
+
+#rev_slider_5_1_wrapper{
+    z-index: 1;
+    position: float;
+    border-spacing: 0;
+border-collapse: collapse;
+}
+
+.bandera{
+    
+    z-index: 2;
+}
+
+#mecanicas{
+position: relative;
+margin-top: 0ch;
+z-index: 200;
+margin-bottom: -80px;
+top: -120px;
+}
+
+#macanicas3{
+    position: relative;
+    top: -51px;
+}
+
+.img-fluid{
+ margin-block-end: 0%; 
+}
+
+.tp-bgimg.defaultimg {
+
+}
+#tiker{
+    padding-left: 3%;
+    position: relative;
+    top: -50px;
+}
+#howyr{
+
+    padding-left: 10%;
+
+}
+
+#botonpar{
+
+    padding-left: auto  ;
+  
+}
+
+#jasjasj{
+    position: relative;
+    right: -50px;
+
+}
+
+#button1{
+ 
+    position: relative;
+    padding-left: 16%;
+    font-family: 'Nunito', sans-serif;}
+
+#button2{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    border: green;
+    position: relative;
+    
+    }
+
+    #carta{
+    
+        padding-left: 14px;
+    }
+
+    #carta2{
+        padding-left: 8%;
+    }
+
+    #carta3{
+        padding-left: 8%;
+        padding-bottom: 10%;
+    }
+
+    #bottonfinal{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 900;
+    border: green;
+    background-color: #d9272e;
+    }
+
+
+
+#tarjeton{
+    position: relative;
+    right: 37px;
+    top: -30px;
+}
+
+#parte{
+position: relative;
+padding-left: 15%;
+}
+
+#estaras{
+    max-width: 90%;
+
+}
+
+#first{
+    position: relative;
+    top: -81px;
+}
+#second{
+    position: relative;
+    top: -31px;
+}
+
+#montero{
+    position: relative;
+    align-items: center;
+    left: 50px;
+}
+#tarjeton3{
+    position: relative;
+    left: 29px;
+}
+
+#flechas1{
+    position: relative;
+    right: -21px;
+}
+
+#paso4{
+    width: 95%;
+}

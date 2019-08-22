@@ -1,0 +1,580 @@
+[21-Aug-2019 21:11:50 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:11:50 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:11:54 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/dadacom/public_html/rutadelqueso/conn.php on line 3
+[21-Aug-2019 21:14:35 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/dadacom/public_html/rutadelqueso/conn.php on line 3
+[21-Aug-2019 21:14:39 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/dadacom/public_html/rutadelqueso/conn.php on line 3
+[21-Aug-2019 21:14:45 Etc/GMT] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/dadacom/public_html/rutadelqueso/conn.php on line 3
+[21-Aug-2019 21:15:01 Etc/GMT] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/proceso.php on line 28
+[21-Aug-2019 21:22:43 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:22:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:25:47 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:25:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:25:59 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:26:03 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:28:47 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:29:13 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:29:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:30:10 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:30:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:30:57 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:31:01 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:33:10 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:33:14 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:33:17 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:41:05 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:43:23 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:43:54 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:48:35 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:48:37 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:49:45 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 21:50:25 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 22:17:01 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 22:17:04 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 109
+[21-Aug-2019 22:18:25 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 109
+[21-Aug-2019 22:18:30 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 109
+[21-Aug-2019 22:19:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PEAR_Error::send() in /home/dadacom/public_html/rutadelqueso/proceso.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 93
+[21-Aug-2019 22:19:45 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 22:19:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PEAR_Error::send() in /home/dadacom/public_html/rutadelqueso/proceso.php:93
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 93
+[21-Aug-2019 22:20:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PEAR_Error::send() in /home/dadacom/public_html/rutadelqueso/proceso.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 94
+[21-Aug-2019 22:20:43 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 22:20:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PEAR_Error::send() in /home/dadacom/public_html/rutadelqueso/proceso.php:94
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 94
+[21-Aug-2019 22:21:39 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 112
+[21-Aug-2019 22:21:43 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 112
+[21-Aug-2019 22:21:46 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 22:21:51 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 112
+[21-Aug-2019 22:22:43 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 112
+[21-Aug-2019 22:22:47 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 112
+[21-Aug-2019 22:24:36 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 113
+[21-Aug-2019 22:24:40 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 113
+[21-Aug-2019 22:25:06 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:25:09 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 22:25:12 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:26:26 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:26:29 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:28:33 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:28:49 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:29:15 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:30:57 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:31:05 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:31:34 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:31:38 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:31:51 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:31:54 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:35:18 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:35:21 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:35:46 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:35:49 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 114
+[21-Aug-2019 22:37:01 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 115
+[21-Aug-2019 22:37:47 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 115
+[21-Aug-2019 22:37:50 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/proceso.php on line 115
+[21-Aug-2019 22:39:31 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PEAR_Error::send() in /home/dadacom/public_html/rutadelqueso/proceso.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 91
+[21-Aug-2019 22:41:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PEAR_Error::send() in /home/dadacom/public_html/rutadelqueso/proceso.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 91
+[21-Aug-2019 22:43:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined method PEAR_Error::send() in /home/dadacom/public_html/rutadelqueso/proceso.php:91
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 91
+[21-Aug-2019 22:49:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/dadacom/public_html/rutadelqueso/proceso.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 80
+[21-Aug-2019 22:49:38 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 22:49:44 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/dadacom/public_html/rutadelqueso/proceso.php:80
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 80
+[21-Aug-2019 22:50:19 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[21-Aug-2019 22:51:21 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/dadacom/public_html/rutadelqueso/proceso.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 82
+[21-Aug-2019 22:51:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/dadacom/public_html/rutadelqueso/proceso.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 82
+[21-Aug-2019 22:51:59 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/dadacom/public_html/rutadelqueso/proceso.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 82
+[21-Aug-2019 22:52:10 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/dadacom/public_html/rutadelqueso/proceso.php:82
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 82
+[21-Aug-2019 22:53:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/dadacom/public_html/rutadelqueso/proceso.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/proceso.php on line 83
+[21-Aug-2019 23:00:04 Etc/GMT] PHP Notice:  fputs(): send of 18 bytes failed with errno=32 Broken pipe in /home/dadacom/public_html/rutadelqueso/class.smtp.php on line 429
+[21-Aug-2019 23:09:14 Etc/GMT] PHP Notice:  fputs(): send of 18 bytes failed with errno=32 Broken pipe in /home/dadacom/public_html/rutadelqueso/class.smtp.php on line 429
+[21-Aug-2019 23:13:16 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:06:59 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:07:36 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:09:57 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:10:04 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:10:07 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:10:22 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:11:23 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:13:10 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:13:16 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:14:44 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:17:32 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 124
+[22-Aug-2019 03:19:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:32:07 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:35:03 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:38:33 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/activate.php on line 9
+[22-Aug-2019 03:39:22 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/activate.php on line 9
+[22-Aug-2019 03:41:28 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/activate.php on line 9
+[22-Aug-2019 03:41:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:42:04 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:42:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/activate.php on line 9
+[22-Aug-2019 03:44:43 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:49:48 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:49:48 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:52:12 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:52:12 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:52:38 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:52:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 03:57:07 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:01:20 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:01:20 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:01:55 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:01:57 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:02:47 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:03:36 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:03:44 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:07:16 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:07:24 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:08:20 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:08:29 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:16:03 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:21:44 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/ingreso.php:1) in /home/dadacom/public_html/rutadelqueso/ingreso.php on line 112
+[22-Aug-2019 04:26:37 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/ingreso.php:1) in /home/dadacom/public_html/rutadelqueso/ingreso.php on line 112
+[22-Aug-2019 04:28:55 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/ingreso.php:1) in /home/dadacom/public_html/rutadelqueso/ingreso.php on line 112
+[22-Aug-2019 04:39:28 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:43:37 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:49:25 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:49:52 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:50:00 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:50:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:51:07 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:51:15 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:51:25 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:53:03 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:54:21 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 04:55:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:12:37 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:14:03 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 05:16:25 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 05:17:22 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:23:52 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 05:30:27 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:30:40 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:30:52 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:31:10 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 05:35:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:36:15 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 05:39:58 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 05:46:03 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:46:03 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:46:29 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:50:33 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:54:35 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:54:35 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 05:54:50 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:04:09 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:05:34 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:10:42 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 06:11:44 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:15:55 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:16:45 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:17:36 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:17:56 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 06:23:35 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:24:02 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 06:24:38 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 06:24:43 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 06:26:00 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:33:19 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:33:39 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:34:46 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:35:07 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:35:36 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:39:05 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:39:05 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:39:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:48:40 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:48:55 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:49:36 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 06:53:07 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:53:11 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 06:53:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 15:45:04 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 16:14:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 16:21:46 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 16:22:16 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 16:24:05 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 16:24:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 16:28:02 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 16:29:20 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 16:39:30 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 112
+[22-Aug-2019 16:42:20 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 112
+[22-Aug-2019 16:59:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 112
+[22-Aug-2019 17:02:52 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 17:03:17 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 34
+[22-Aug-2019 17:03:17 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 35
+[22-Aug-2019 17:03:17 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 112
+[22-Aug-2019 17:07:20 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 159
+[22-Aug-2019 17:08:07 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 159
+[22-Aug-2019 17:08:31 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:09:26 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:09:26 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:12:27 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:12:27 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:12:30 Etc/GMT] PHP Notice:  Undefined variable: row in /home/dadacom/public_html/rutadelqueso/login.php on line 24
+[22-Aug-2019 17:12:30 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 17:12:30 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:12:30 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:14:39 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:14:39 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:14:43 Etc/GMT] PHP Notice:  Undefined variable: row in /home/dadacom/public_html/rutadelqueso/login.php on line 24
+[22-Aug-2019 17:14:43 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 17:14:43 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:14:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:15:02 Etc/GMT] PHP Notice:  Undefined variable: row in /home/dadacom/public_html/rutadelqueso/login.php on line 24
+[22-Aug-2019 17:15:02 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 17:15:03 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:15:03 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:15:39 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:15:39 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:15:43 Etc/GMT] PHP Notice:  Undefined variable: row in /home/dadacom/public_html/rutadelqueso/login.php on line 24
+[22-Aug-2019 17:15:43 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 17:15:43 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:15:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:21:30 Etc/GMT] PHP Notice:  Undefined variable: row in /home/dadacom/public_html/rutadelqueso/login.php on line 24
+[22-Aug-2019 17:21:30 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 17:21:30 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:21:30 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:22:14 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:22:14 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:22:18 Etc/GMT] PHP Notice:  Undefined variable: row in /home/dadacom/public_html/rutadelqueso/login.php on line 24
+[22-Aug-2019 17:22:18 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 17:22:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:22:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:22:54 Etc/GMT] PHP Notice:  Undefined variable: row in /home/dadacom/public_html/rutadelqueso/login.php on line 24
+[22-Aug-2019 17:22:54 Etc/GMT] PHP Notice:  Undefined index: useridssss in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 17:22:54 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:22:54 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:24:27 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 17:24:27 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:24:27 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:57:16 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:57:16 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 17:58:42 Etc/GMT] PHP Notice:  Undefined index: userid in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 17:58:42 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 17:58:42 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 18:02:05 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:02:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 18:02:46 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:02:46 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 18:03:02 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:03:02 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 18:07:29 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 18:08:15 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 18:08:19 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 18:09:00 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 18:09:13 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:37
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 37
+[22-Aug-2019 18:11:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:11:54 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:12:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:12:52 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:14:13 Etc/GMT] PHP Notice:  Undefined variable: con in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:14:13 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:14:17 Etc/GMT] PHP Notice:  Undefined variable: con in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:14:17 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:14:34 Etc/GMT] PHP Notice:  Undefined variable: con in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:14:34 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:14:37 Etc/GMT] PHP Notice:  Undefined variable: con in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:14:37 Etc/GMT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:15:44 Etc/GMT] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:18:11 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:18:40 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:18:43 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:19:45 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:19:48 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:21:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_assoc() in /home/dadacom/public_html/rutadelqueso/login.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/login.php on line 44
+[22-Aug-2019 18:25:56 Etc/GMT] PHP Notice:  Undefined variable: participante in /home/dadacom/public_html/rutadelqueso/login.php on line 38
+[22-Aug-2019 18:25:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:25:56 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 18:34:32 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:34:32 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:117
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 117
+[22-Aug-2019 18:36:53 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:36:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 115
+[22-Aug-2019 18:36:57 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:36:57 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 115
+[22-Aug-2019 18:37:02 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:37:02 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 115
+[22-Aug-2019 18:37:53 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:37:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 115
+[22-Aug-2019 18:38:37 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:38:37 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 115
+[22-Aug-2019 18:38:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:38:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 115
+[22-Aug-2019 18:38:51 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:38:51 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:115
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 115
+[22-Aug-2019 18:39:14 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:39:14 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 124
+[22-Aug-2019 18:39:34 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:39:34 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 124
+[22-Aug-2019 18:39:53 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:39:53 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 124
+[22-Aug-2019 18:40:05 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:40:05 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 124
+[22-Aug-2019 18:40:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:40:49 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 124
+[22-Aug-2019 18:40:51 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:40:51 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function check_input() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:124
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 124
+[22-Aug-2019 18:41:31 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:41:41 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:44:16 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:44:16 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 125
+[22-Aug-2019 18:44:39 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:44:39 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 125
+[22-Aug-2019 18:45:01 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:45:01 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 125
+[22-Aug-2019 18:45:03 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:45:03 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 126
+[22-Aug-2019 18:45:43 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:45:43 Etc/GMT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 126
+[22-Aug-2019 18:46:02 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:46:20 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:51:34 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:51:34 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 133
+[22-Aug-2019 18:51:36 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:51:36 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 133
+[22-Aug-2019 18:52:35 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:52:35 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 133
+[22-Aug-2019 18:53:15 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:53:15 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 133
+[22-Aug-2019 18:53:19 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:53:19 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 133
+[22-Aug-2019 18:54:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:54:18 Etc/GMT] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:133
+Stack trace:
+#0 {main}
+  thrown in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 133
+[22-Aug-2019 18:56:20 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:56:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:57:16 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:57:46 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:58:32 Etc/GMT] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 135
+[22-Aug-2019 18:58:43 Etc/GMT] PHP Parse error:  syntax error, unexpected 'footer1' (T_STRING), expecting ',' or ';' in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 147
+[22-Aug-2019 18:58:53 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 18:59:15 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:00:07 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:00:30 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:00:34 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:04:44 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:05:05 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:06:08 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:06:21 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:07:03 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:07:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:07:34 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:08:18 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:50:14 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:51:56 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 19:52:41 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 19:52:49 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 19:53:34 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 19:54:33 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 20:05:58 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 20:05:58 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 20:06:15 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 20:07:19 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 20:08:11 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 20:08:23 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 20:09:39 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 20:10:19 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 20:10:24 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 20:11:02 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 20:12:38 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php:1) in /home/dadacom/public_html/rutadelqueso/llena_tu_cartilla.php on line 113
+[22-Aug-2019 20:12:39 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 20:12:39 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 20:14:59 Etc/GMT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122
+[22-Aug-2019 20:14:59 Etc/GMT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/dadacom/public_html/rutadelqueso/registrate.php:1) in /home/dadacom/public_html/rutadelqueso/registrate.php on line 122

@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+	<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+	<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+	<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+	<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<title>Kisko</title>
+		<meta name="description" content="Slider Revolution Example" />
+		<meta name="keywords" content="fullscreen image, grid layout, flexbox grid, transition" />
+		<meta name="author" content="ThemePunch" />
+		<meta name="viewport" content="width=device-width, initial-scale = 1.0, maximum-scale=1.0, user-scalable=no" />
+
+		<title>Kisko Home</title>
+
+		<!-- LOAD JQUERY LIBRARY -->
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.js"></script>
+		
+		<!-- LOADING FONTS AND ICONS -->
+		<link href="https://fonts.googleapis.com/css?family=Nunito:900" rel="stylesheet" property="stylesheet" type="text/css" media="all">
+		
+		<link rel="stylesheet" type="text/css" href="fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css">
+		<link rel="stylesheet" type="text/css" href="fonts/font-awesome/css/font-awesome.css">
+		
+		<!-- REVOLUTION STYLE SHEETS -->
+		<link rel="stylesheet" type="text/css" href="css/settings.css">
+		<!-- REVOLUTION LAYERS STYLES -->
+		<!-- Bootstrap -->
+		<link href="css/bootstrap.min.css" rel="stylesheet">
+		<link href="css/Style.css" rel="stylesheet" media="screen">
+		<link rel="stylesheet" type="text/css" href="css/Style.css">
+		<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+		<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+		<link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
+		<!--Fin Bootstrap -->
+<style type="text/css">.custom .tp-bullet{border-radius:50px;   background:url(wp-content/themes/seocify/assets/images/dot.png) !important;   width:14px !important;   height:14px!important}.custom  .tp-bullet.selected{background-repeat:no-repeat;  background-size:auto !important;  background-position:0px -20px !important}.slider-bg{opacity:.5 !important}.hell-bg{opacity:.3 !important}.rev-btn{background-size:101% !important}.tp-caption i{font-size:15px !important}.xs-shadow{-webkit-box-shadow:0px 10px 25px 0px var(--box-shadow-color);  box-shadow:0px 10px 25px 0px var(--box-shadow-color);  --box-shadow-color:rgba(0,0,0,0.1)}</style>
+				<style type="text/css">.custom.tp-bullets{}.custom.tp-bullets:before{content:" ";position:absolute;width:100%;height:100%;background:transparent;padding:10px;margin-left:-10px;margin-top:-10px;box-sizing:content-box}.custom .tp-bullet{width:12px;height:12px;position:absolute;background:#aaa;  background:rgba(125,125,125,0.5);cursor:pointer;box-sizing:content-box}.custom .tp-bullet:hover,.custom .tp-bullet.selected{background:rgb(125,125,125)}.custom .tp-bullet-image{}.custom .tp-bullet-title{}</style>
+
+				<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/bootstrap.min.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    (function($){
+    $(document).ready(function() {
+      AOS.init();
+    });
+    })(jQuery)
+</script>
+
+
+
+
+		
+					<div class="container-fluid">
+						<div class="row"> 
+							<div class="col-12">          
+								<nav id="mainNav" class="navbar  fixed-top navbar-expand-lg navbar-light">
+										
+										<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+										  <span class="navbar-toggler-icon"></span>
+										</button>
+										
+										<span class="d-block d-md-none"><img class="img-fluid" src="images/logo_kiosko_mobile.png" style="width:140px; height:auto;"  ></span>
+										
+										<div class="collapse navbar-collapse" id="navbarNavDropdown">
+										  <ul class="navbar-nav">
+											<li class="nav-item active">
+											  <a style="color: white; " class="nav-link" href="https://www.google.com/?client=safari">Cómo participar <span class="sr-only">(current)</span></a>
+											</li> 
+											<li class="nav-item">
+											  <a  style="color: white"  class="nav-link" href="#">Premios</a>
+											</li>
+											<li class="nav-item">
+											  <a  style="color: white"  class="nav-link" href="https://www.google.com/?client=safari">Productos participantes</a>
+											</li>
+										  </ul>
+										</div>
+										<div  class="col-offset-6">
+											<a href="https://www.facebook.com/KioskoEcuador/" target="_blank"><img src="images/aseet4.ico" alt=""></a>
+											<a href="https://www.instagram.com/kioskoecuador/" target="_blank"><img style="margin-left: 10px" src="images/instagram-24.ico" alt=""></a>
+										   </div>
+											</nav>
+									 
+									</div>
+				
+							</div>
+							<center>
+<!--escritorio-->						<div class="container-fluid d-none d-md-block" style="position:absolute; z-index:999 !important; margin-top:0px;"><a href="/"> <img id="bandera" class="img-fluid" src="images/logo_kiosko_escritorio.png"   alt="">  </a></div>
+<!--mobile 						<div class="container-fluid d-block d-md-none"><a href="/"> <img id="bandera" class="img-fluid" src="images/logo_kiosko_mobile.png" style="z-index:999999999999;"  alt="">  </a></div>  --> 
+						  </center>
+						  </div>
+	</head>
+	<body>
+
+<!-- Espaciado-->
+								<div id="espaciado">
+							    <p>texto</p>
+								</div>	
+							    <div id="espaciado">
+							    <p>texto</p>
+								</div>		
+								<div id="espaciado">
+								<p>texto</p>
+								</div>
+								<div id="espaciado">
+								<p>texto</p>
+								</div>	<div id="espaciado">
+								<p>texto</p>
+								</div>	
+
+
+
+
+
+<!-- Premios escritorio-->
+<div id="Premios" class="container-fluid d-none d-md-block" data-aos="fade-up">
+		<div class="row ">
+			<div id="macanicas2" class="col-12">
+				<center>
+						<img id="macanicas3" class="img-fluid" src="images/premios.png" style="padding-top:60px;"	alt="">
+				</center>
+			</div>	
+		</div>
+</div>
+<!-- Premios mobil-->
+<div id="premios2" class="container-fluid d-block d-md-none" data-aos="fade-up">
+		<div class="row ">
+			<div id="macanicas" class="col-12">
+				<center>
+						<img id="macanicas3" class="img-fluid" src="images/premios2.png" style="padding-top:45px; width:90%;"	alt="">
+				</center>
+			</div>	
+		</div>
+</div>
+
+	
+<!-- banner destokp-->
+<div id="bannerdesktop" class="container-fluid d-none d-md-block" data-aos="fade-right" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-12" style="text-align:center;">
+			 	 <img class="img-fluid" src="images/rutadelquesopremios.png" alt="" usemap="#ppe">
+			  </div>
+		</div>
+</div>
+
+<!-- banner mobile-->
+<div class="container-fluid d-block d-md-none" data-aos="fade-left" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-sm-12" style="text-align:center;padding-bottom:30px;">
+			 	 <img class="img-fluid" src="images/rutadelquesopremios.png" alt="">
+		 	 	</div>
+		</div>
+</div>
+						
+
+<!--  dia2 y 3escritorio-->
+<div id="dia2" class="container-fluid d-none d-md-block" data-aos="fade-left" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-4" style="text-align:center;padding-bottom:50px;">
+			 	 <img class="img-fluid" src="images/dia2_desktop.png" alt="">
+			  </div>
+			  <div id="dia3" class="col-3" style="text-align:center;padding-bottom:50px;">
+					<img class="img-fluid" src="images/dia3_desktop.png" alt="">
+				</div>
+		</div>
+</div>
+
+<!-- Día 2 y 3 mobile-->
+<div class="container-fluid d-block d-md-none" data-aos="fade-right" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-sm-12" style="text-align:center;">
+			 	 <img class="img-fluid" src="images/2y3.png" alt="" usemap="#ppm">
+				  </div>
+				</div>
+	</div>
+
+
+<!--  dia4 y 5escritorio-->
+<div id="dia2" class="container-fluid d-none d-md-block" data-aos="fade-left" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-4" style="text-align:center;padding-bottom:50px;">
+			 	 <img class="img-fluid" src="images/dia4_desktop.png" alt="">
+			  </div>
+			  <div id="dia3" class="col-3" style="text-align:center;padding-bottom:50px;">
+					<img class="img-fluid" src="images/dia5_desktop.png" alt="">
+				</div>
+		</div>
+</div>
+
+
+
+<!-- Día 4 y 5 mobile-->
+<div class="container-fluid d-block d-md-none" data-aos="fade-right" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-sm-12" style="text-align:center;">
+			 	 <img class="img-fluid" src="images/4y5.png" alt="" usemap="#ppm">
+				  </div>
+				</div>
+	</div>
+
+<!--  dia6/7 y 8escritorio-->
+<div id="dia2" class="container-fluid d-none d-md-block" data-aos="fade-left" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-4" style="text-align:center;padding-bottom:50px;">
+			 	 <img class="img-fluid" src="images/dia6_desktop.png" alt="">
+			  </div>
+			  <div id="dia3" class="col-3" style="text-align:center;padding-bottom:50px;">
+					<img class="img-fluid" src="images/dia8_desktop.png" alt="">
+				</div>
+		</div>
+</div>
+
+
+
+
+<!-- Día 6/7 y 8 mobile-->
+<div class="container-fluid d-block d-md-none" data-aos="fade-right" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-sm-12" style="text-align:center;">
+			 	 <img class="img-fluid" src="images/6y7.png" alt="" usemap="#ppm">
+				  </div>
+				</div>
+	</div>
+
+
+
+<!--  final viaje-->
+<div id="dia2" class="container-fluid d-none d-md-block" data-aos="fade-left" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="final1" class="col-6" style="text-align:center;padding-bottom:50px;">
+			 	 <img class="img-fluid" src="images/finalviaje.png" alt="">
+			  </div>
+		</div>
+</div>
+
+<!--final viaje mobile-->
+<div class="container-fluid d-block d-md-none" data-aos="fade-right" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-sm-12" style="text-align:center;">
+			 	 <img class="img-fluid" src="images/finalviaje.png" alt="" usemap="#ppm">
+				  </div>
+				</div>
+	</div>
+
+
+<!--  ademas y gift card -->
+<div id="final2" class="container-fluid d-none d-md-block" data-aos="fade-left" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="" class="col-4" style="text-align:center;padding-bottom:50px;">
+			 	 <img class="img-fluid" src="images/ademas.png" alt="">
+			  </div>
+			  <div id="gifcard" class="col-3" style="text-align:center;padding-bottom:50px;">
+					<img class="img-fluid" src="images/gifcard.png" alt="">
+				</div>
+		</div>
+</div>
+
+<!--final viaje mobile-->
+<div class="container-fluid d-block d-md-none" data-aos="fade-right" data-aos-duration="3500">
+		<div id="" class="row">
+		  	<div id="tiker" class="col-sm-12" style="text-align:center;">
+			 	 <img class="img-fluid" src="images/final36.pngx" alt="" usemap="#ppm">
+				  </div>
+				</div>
+	</div>
+
+
+<center data-aos="fade-up">
+		<button id="bottonfinal" type="button" class="btn btn-secondary " onclick="window.location.href='http://www.google.com'" style="background-color:green !important; font-size:20px; margin-bottom:25px;">&nbsp;&nbsp;Regístrate&nbsp;&nbsp;</button>
+</center>
+<br>
+<footer>
+	<nav id="footer1" class="navbar navbar-expand-lg" bg-primary">
+			<a  style="color: white; " class="navbar-brand" href="terminos_condiciones.html">Términos y condiciones</a>
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+			  <span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="collapse navbar-collapse" id="navbarText">
+			  <ul class="navbar-nav mr-auto">
+				<li class="nav-item active">
+				  <a style="color: white; " class=" nav-link" href="contactenos.html">Contacto <span class="sr-only">(current)</span></a>
+				</li>
+			  </ul>
+			  <ul>
+					<div class="col-offset-6">
+											<a href="https://www.facebook.com/KioskoEcuador/" target="_blank"><img src="images/aseet4.ico" alt=""></a>
+											<a href="https://www.instagram.com/kioskoecuador/" target="_blank"><img style="margin-left: 10px" src="images/instagram-24.ico" alt=""></a>
+						   </div>
+			  </ul>
+			</div>
+		  </nav>
+  </footer>
+ <map name="ppe">
+    <area target="" alt="" title="" href="productos_participante.html" coords="639,203,625,245,644,278,730,344,671,352,661,368,661,404,681,424,802,423,818,404,816,364,803,352,750,341,825,257,852,259,851,226,818,215,820,195,748,186,685,188" shape="poly">
+</map>
+<map name="ppm">
+    <area target="" alt="" title="" href="" coords="175,503,587,502,582,197,170,192" shape="poly">
+</map>
+
+<!--libreria animar rows-->
+<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
+
+</body>
+</html>
